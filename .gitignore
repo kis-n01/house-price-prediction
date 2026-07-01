@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# React
+node_modules/
+
+# macOS
+.DS_Store
